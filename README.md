@@ -12,3 +12,5 @@ You should see the following:
 
 ![test](https://user-images.githubusercontent.com/70060459/127347362-bfa8ecd5-ba67-4cef-bb3e-80b299d6594b.png)
 
+In the future I intend to get the shadows in the scene working.
+
