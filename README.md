@@ -1,3 +1,4 @@
+![test](https://user-images.githubusercontent.com/70060459/127347362-bfa8ecd5-ba67-4cef-bb3e-80b299d6594b.png)
 # raytracer
 A ray tracer that accommodates photon mapping, defocus blur, and caustics 
 To run the code:
